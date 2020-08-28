@@ -8,8 +8,7 @@ Users will be able to view mentors in a separate section of the site based on fi
 
 ## Design
 
-
-
+![Image alt](https://EvgeniyOrl/ProductHired-Lab/raw/master/ProductHired1.PNG)
 
 
 
