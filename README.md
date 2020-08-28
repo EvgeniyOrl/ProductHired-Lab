@@ -8,9 +8,11 @@ Users will be able to view mentors in a separate section of the site based on fi
 
 ## Design
 
-![Image alt](https://EvgeniyOrl/ProductHired-Lab/raw/master/ProductHired1.PNG)
-
-
+![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired1.PNG)
+![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired2.PNG)
+![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired3.PNG)
+![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired4.PNG)
+![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired5.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
