@@ -9,6 +9,7 @@ Users will be able to view mentors in a separate section of the site based on fi
 ## Design
 
 ![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired1.PNG)
+![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired6.PNG)
 ![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired2.PNG)
 ![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired3.PNG)
 ![Image alt](https://github.com/EvgeniyOrl/ProductHired-Lab/blob/master/ProductHired4.PNG)
